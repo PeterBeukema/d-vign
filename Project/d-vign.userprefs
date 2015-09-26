@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="iOS/d-vign.Touch.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="3" Column="20" />
+      <File FileName="iOS/AppDelegate.cs" Line="11" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../Ve.Xamarin/Ve.Xamarin.Portable/Domeinen/Basis/Modules/TimeoutInstellingen/TimeoutInstellingenModule.cs" line="169" offsetX="336" offsetY="2520" expression="t.IsCanceled" liveUpdate="False" />
+    <Watch file="../Ve.Xamarin/Ve.Xamarin.Portable/Domeinen/Basis/ViewModels/TimeoutInstellingenViewModel.cs" line="100" offsetX="249" offsetY="1485" expression="hai" liveUpdate="False" />
+    <Watch file="../Ve.Xamarin/Ve.App.Berichtenbox.Core/ViewModels/AantalOngelezenBerichtenViewModel.cs" line="40" offsetX="712" offsetY="585" expression="value" liveUpdate="False" />
+    <Watch file="../Ve.Xamarin/Ve.App.Berichtenbox.Core/ViewModels/AantalOngelezenBerichtenViewModel.cs" line="35" offsetX="488" offsetY="510" expression="this.aantalOngelezenBerichtenString" liveUpdate="False" />
+    <Watch file="../Ve.Xamarin/Ve.App.Berichtenbox.Core/Modules/BerichtenBoxModule.cs" line="96" offsetX="300" offsetY="1425" expression="this.initilized" liveUpdate="False" />
+    <Watch file="../Ve.Xamarin/Ve.Xamarin.Portable/Domeinen/Vermogen/ViewModels/FondsSwitchenViewModel.cs" line="94" offsetX="322" offsetY="1395" expression="this.aantal" liveUpdate="False" />
+    <Watch file="../Ve.Xamarin/Ve.Xamarin.Portable/Domeinen/Vermogen/ViewModels/FondsSwitchenViewModel.cs" line="99" offsetX="538" offsetY="1470" expression="value" liveUpdate="False" />
+    <Watch file="../Ve.Xamarin/Ve.Xamarin.Portable/Domeinen/Vermogen/ViewModels/FondsSwitchenViewModel.cs" line="269" offsetX="632" offsetY="4020" expression="daadwerkelijkeaantal" liveUpdate="False" />
+    <Watch file="../Ve.Xamarin/Ve.Xamarin.Android.Core/Navigation/AndroidNavigationModule.cs" line="165" offsetX="517" offsetY="2460" expression="tag" liveUpdate="False" />
+    <Watch file="../Ve.Xamarin/Ve.Xamarin.Android.Core/Fragments/DepositoFragments/DepositoSamenvattingFragment.cs" line="67" offsetX="423" offsetY="990" expression="enabled" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
